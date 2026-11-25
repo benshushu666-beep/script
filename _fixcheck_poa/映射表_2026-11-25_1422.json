@@ -1,0 +1,32 @@
+{
+  "_warning": "本文件包含真实个人信息，属敏感材料，请本地保管，禁止外传。",
+  "generated_at": "2026-11-25 14:22:00",
+  "input": "D:\\WORK\\法律\\代理案件\\民间借贷\\新建文件夹\\2授权委托书（民事）.docx",
+  "mode": "code",
+  "entries": [
+    {
+      "category": "person",
+      "label": "姓名",
+      "original": "钱国兴",
+      "replacement": "赵某"
+    },
+    {
+      "category": "person",
+      "label": "姓名",
+      "original": "何彬彬",
+      "replacement": "孙某"
+    },
+    {
+      "category": "phone",
+      "label": "手机号",
+      "original": "13735253857",
+      "replacement": "137****3857"
+    },
+    {
+      "category": "address",
+      "label": "地址",
+      "original": "杭州市上城区解放东路29号迪凯银座2104.",
+      "replacement": "杭州市〔地址已脱敏〕"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "_warning": "本文件包含真实个人信息，属敏感材料，请本地保管，禁止外传。",
+  "generated_at": "2026-11-25 13:55:51",
+  "input": "D:\\WORK\\法律\\代理案件\\民间借贷\\新建文件夹\\民事起诉状-刘珍珍.docx",
+  "mode": "code",
+  "entries": [
+    {
+      "category": "person",
+      "label": "姓名",
+      "original": "刘珍珍",
+      "replacement": "赵某"
+    },
+    {
+      "category": "birth",
+      "label": "出生日期",
+      "original": "1992年11月17日",
+      "replacement": "1992年**月**日"
+    },
+    {
+      "category": "id_card",
+      "label": "身份证号",
+      "original": "330624199211177561",
+      "replacement": "330624********7561"
+    },
+    {
+      "category": "address",
+      "label": "地址",
+      "original": "浙江省新昌县七星街道和兴家园1幢391室",
+      "replacement": "浙江省新昌县〔地址已脱敏〕"
+    },
+    {
+      "category": "phone",
+      "label": "手机号",
+      "original": "15958571323",
+      "replacement": "159****1323"
+    },
+    {
+      "category": "person",
+      "label": "姓名",
+      "original": "钱国兴",
+      "replacement": "孙某"
+    },
+    {
+      "category": "birth",
+      "label": "出生日期",
+      "original": "1986年11月02日",
+      "replacement": "1986年**月**日"
+    },
+    {
+      "category": "id_card",
+      "label": "身份证号",
+      "original": "330683198611023233",
+      "replacement": "330683********3233"
+    },
+    {
+      "category": "address",
+      "label": "地址",
+      "original": "浙江省嵊州市谷来镇榆树村桃岭18号",
+      "replacement": "浙江省嵊州市〔地址已脱敏〕"
+    },
+    {
+      "category": "phone",
+      "label": "手机号",
+      "original": "19858501189",
+      "replacement": "198****1189"
+    }
+  ]
+}

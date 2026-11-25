@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# 环境文件、密钥、配置
+.env
+.env.local
+.env.*.local
+*.secret
+*.key
+*.pem
+id_rsa*
+credentials.json
+
+# 日志
+*.log
+logs/
+
+# 编辑器 & IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 测试输出、临时文件
+tmp/
+temp/
+*.tmp
+*.bak
+
+# Node（如果有js脚本）
+node_modules/
+package-lock.json
+yarn.lock

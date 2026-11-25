@@ -1,0 +1,32 @@
+{
+  "_warning": "本文件包含真实个人信息，属敏感材料，请本地保管，禁止外传。",
+  "generated_at": "2026-11-25 14:06:24",
+  "input": "D:\\ClaudeData\\.claude\\script\\_selftest\\data\\01_诉讼文书\\起诉状.docx",
+  "mode": "code",
+  "entries": [
+    {
+      "category": "company",
+      "label": "企业名称",
+      "original": "杭州测试科技有限公司",
+      "replacement": "甲公司"
+    },
+    {
+      "category": "company",
+      "label": "企业名称",
+      "original": "浙江测试律师事务所",
+      "replacement": "乙律师事务所"
+    },
+    {
+      "category": "person",
+      "label": "姓名",
+      "original": "张伟",
+      "replacement": "赵某"
+    },
+    {
+      "category": "person",
+      "label": "姓名",
+      "original": "李娜",
+      "replacement": "钱某"
+    }
+  ]
+}

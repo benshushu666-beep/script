@@ -1,0 +1,38 @@
+{
+  "_warning": "本文件包含真实个人信息，属敏感材料，请本地保管，禁止外传。",
+  "generated_at": "2026-11-25 11:25:42",
+  "input": "D:\\ClaudeData\\.claude\\script\\_selftest\\data\\01_诉讼文书\\起诉状.docx",
+  "mode": "code",
+  "entries": [
+    {
+      "category": "id_card",
+      "label": "身份证号",
+      "original": "330102199003071230",
+      "replacement": "330102********1230"
+    },
+    {
+      "category": "phone",
+      "label": "手机号",
+      "original": "13812345678",
+      "replacement": "138****5678"
+    },
+    {
+      "category": "id_card",
+      "label": "身份证号",
+      "original": "330102198806152347",
+      "replacement": "330102********2347"
+    },
+    {
+      "category": "person",
+      "label": "姓名",
+      "original": "张伟",
+      "replacement": "赵某"
+    },
+    {
+      "category": "person",
+      "label": "姓名",
+      "original": "李娜",
+      "replacement": "钱某"
+    }
+  ]
+}
